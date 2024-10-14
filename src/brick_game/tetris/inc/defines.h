@@ -1,0 +1,9 @@
+#ifndef BRICK_GAME_TETRIS_INC_DEFINES_H
+#define BRICK_GAME_TETRIS_INC_DEFINES_H
+
+#define LEFT 0
+#define RIGHT 1
+
+#define NOT_EDIT -3
+
+#endif
