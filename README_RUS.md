@@ -21,7 +21,7 @@
 - Рекорд сохраняется между запусками программы
 
 ### Превью
-<img src="img/interface.gif" width="100%">
+<img src="img/interface.gif" align="center" width="70%">
 
 ## Установка
 
