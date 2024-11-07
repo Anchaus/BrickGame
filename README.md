@@ -20,7 +20,9 @@ In the project there are implementation of following mechanics:
 - High score is stored between program runs
 
 ### Preview
-<img src="img/interface.gif" align="center" width="70%">
+<div style="text-align: center;">
+<img src="img/interface.gif" width="70%">
+</div>
 
 ## Installation
 
